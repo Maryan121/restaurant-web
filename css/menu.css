@@ -250,7 +250,7 @@ img{
 
     /* drinks */
     .drinks-cont{
-        grid-template-columns: 100%;
+        grid-template-columns: repeat(2,1fr);
         gap: .5rem;
     }
     .drinks-box{
