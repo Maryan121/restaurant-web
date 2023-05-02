@@ -236,7 +236,7 @@ img{
         font-size: 1.7rem;
     }
     .box-cont{
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: 100%;
         gap: 1rem;
         padding-bottom: 1.5rem;
     }
@@ -250,7 +250,7 @@ img{
 
     /* drinks */
     .drinks-cont{
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: 100%;
         gap: .5rem;
     }
     .drinks-box{
