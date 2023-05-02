@@ -11,6 +11,10 @@ header{
     margin-top: -1rem;
 }
 
+.phone-icon{
+    text-shadow: #ED0909 1px 1px 5px ;
+    cursor: pointer;
+}
 .media-icons {
     display:flex;
     gap: 1rem;
