@@ -83,6 +83,9 @@ a:hover, a:focus{
     color: red;
 }
 
+.current{
+    opacity: .78;
+}
 
 @media(max-width:414px){
     .menu-icon{
