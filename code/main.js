@@ -10,5 +10,5 @@ function backgroudSlider(){
 
 setInterval(()=>{
     backgroudSlider();
-},3000);
+},1000);
 
