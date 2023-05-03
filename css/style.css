@@ -327,10 +327,10 @@ footer .social-media-icons a:focus{
 @media(max-width:414px){
     .hero-text{
         position: absolute;
-        top: 30%;
+        top: 40%;
         left: 6%;
         margin: 0 auto;
-        width: 88%;   
+        width: 85%;   
         text-transform: capitalize;
         display: flex;
         flex-direction: column;
