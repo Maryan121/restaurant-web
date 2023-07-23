@@ -327,10 +327,10 @@ footer .social-media-icons a:focus{
 /* small screens */
 @media screen and (max-width:769px){
     header{
-        height: 85vh;
+        height: 80vh;
     }
     .bg-image img{
-        height: 85vh;
+        height: 80vh;
     }
     .hero-text{
         position: absolute;
