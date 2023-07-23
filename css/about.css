@@ -61,7 +61,7 @@ img{
 }
 
 
-@media (max-width:769px) {
+@media screen and (max-width:769px) {
     header{
         margin-bottom: 6.2rem;
     }
